@@ -1,2 +1,5 @@
 #!/bin/bash
-echo "This script adds execute permission to the owner of the file 'hello'."
+This script modifies the permissions of the file `hello` as follows:
+- Owner: Read, write, and execute.
+- Group: Read and execute.
+- Others: Read.
