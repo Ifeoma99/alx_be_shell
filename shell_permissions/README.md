@@ -1,2 +1,2 @@
 #!/bin/bash
-Prints the effective username of the current user
+Creates an empty file called 'hello' in the current directory
