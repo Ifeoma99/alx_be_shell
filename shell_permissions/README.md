@@ -1,5 +1,2 @@
 #!/bin/bash
-This script modifies the permissions of the file `hello` as follows:
-- Owner: Read, write, and execute.
-- Group: Read and execute.
-- Others: Read.
+This script adds execute permissions to the owner and the group owner, and read permission to other users for the file 'hello'
