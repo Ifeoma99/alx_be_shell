@@ -1,2 +1,2 @@
 #!/bin/bash
-Creates an empty file called 'hello' in the current directory
+echo "This script adds execute permission to the owner of the file 'hello'."
