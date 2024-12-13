@@ -1,2 +1,2 @@
 #!/bin/bash
-This script adds execute permissions to the owner and the group owner, and read permission to other users for the file 'hello'
+This script modifies the permissions of a file named `hello` to `-rwxr-x-wx`. It ensures the file is executable by the owner, readable by the group, and writable/executable by others.
